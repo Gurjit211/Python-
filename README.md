@@ -1,6 +1,6 @@
 ## Python-
 
-01. Data Types and Operators
+**01. Data Types and Operators
 02. String
 03. List
 04. Tuples
